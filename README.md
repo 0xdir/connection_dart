@@ -39,7 +39,7 @@ void main() async {
   }
 
   /// Close the connection
-  api.close();
+  connection.close();
 }
 ```
 

@@ -1,6 +1,6 @@
 name: connection
 description: An opinionated wrapper around the revered http library where HTTP responses are objects for easy parsing and error handling.
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/0xdir/connection_dart
 
 environment:
